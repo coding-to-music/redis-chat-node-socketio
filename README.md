@@ -15,7 +15,6 @@ https://github.com/anselbrandt/redis-chat-node-socketio
 ## Environment Values
 
 ```java
-
 PUBLIC_URL="https://redis-chat-node-socketio.vercel.app"
 REDIS_ENDPOINT_URL="redis.us-east-1-3.ec2.cloud.redislabs.com:18007"
 REDIS_PASSWORD=""
